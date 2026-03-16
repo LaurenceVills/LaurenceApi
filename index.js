@@ -53,9 +53,9 @@ const settings = {
   description: "Simple and Easy-to-Use API Documentation for seamless WhatsApp Bot integration.",
   apiSettings: {
     creator: "Laurence",
-    apikey: ["Laurence123"]
+    apikey: ["Laurence123","123"]
   },
-  linkTelegram: "https://t.me/Laurence",
+  linkTelegram: "https://t.me/LaurenceVill",
   linkWhatsapp: "https://whatsapp.com/channel/0029VbC2aj34yltRNXkMSL3H",
   linkYoutube: "https://www.youtube.com/@LaurenceVill"
 }
