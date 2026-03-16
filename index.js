@@ -56,7 +56,7 @@ const settings = {
     apikey: ["Laurence123","123"]
   },
   linkTelegram: "https://t.me/LaurenceVill",
-  linkWhatsapp: "https://whatsapp.com/channel/0029VbC2aj34yltRNXkMSL3H",
+  linkWhatsapp: "https://whatsapp.com/channel/0029Vb7CWSS5fM5b382mNK07",
   linkYoutube: "https://www.youtube.com/@LaurenceVill"
 }
 
