@@ -70,11 +70,8 @@ async function getFirstAudioFast(hero, maxRetry = 5) {
 module.exports = {
   name: "Hero ML",
   desc: "Random suara hero Mobile Legends",
-  category: "Random",
-  parameters: {
-    apikey: { type: "string" }
-  },     
-  path: "/random/heroml",
+  category: "Random", 
+  path: "/random/heroml?apikey=",
   async run(req, res) {
     const { apikey } = req.query;
 
