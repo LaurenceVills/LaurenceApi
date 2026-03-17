@@ -46,10 +46,7 @@ module.exports = {
   name: "Cosplay",
   desc: "Random foto Cosplayer Anime",
   category: "Random",
-  parameters: {
-    apikey: { type: "string" }
-  },   
-  path: "/random/cosplay",
+  path: "/random/cosplay?apikey=",
 
   async run(req, res) {
     const { apikey } = req.query
